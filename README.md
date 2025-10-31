@@ -1,3 +1,5 @@
-### Bienvenue sur mon GitHub 👋
+### 👋 Salut, moi c’est **xylogix**
 
-Ici vous pouvez admirer les experimentations du developpeur le moins actif sur GitHub  
+Étudiant en **cybersécurité** et passionné d’**informatique** sous toutes ses formes.  
+J’aime comprendre, bidouiller et créer des trucs.  
+Ici, je fais un peu de tout : **projets utiles… ou pas.**
